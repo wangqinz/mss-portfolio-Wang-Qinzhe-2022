@@ -13,7 +13,5 @@ The project will involve extensive exploratory data analysis, model training, pa
  
 The work is inspired by a data set from the Inside Airbnb Data Platform, which covers the availability labels and a number of attributes of Airbnb listings, 
 including hosting characteristics, room information, listing reviews, and booking month.  The main choices of models are Random Forest and AdaBoost.
-
-
 On the one hand, the raw dataset contains both categorical and numerical predictors; the above two classification methods perform well in the dataset. 
 On the other hand, both two are ensemble learning methods. Therefore they usually outperform a single model and are more Robust as it reduces the dispersion of the predictions.
